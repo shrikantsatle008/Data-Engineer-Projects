@@ -25,7 +25,7 @@ Storage Solution for the project
 . Database Name
 
 
-Step 1 :
+Step 1 : Data Ingestion from Azure Blob
 
 Linked Services 
 
