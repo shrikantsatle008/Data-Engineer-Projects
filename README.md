@@ -17,3 +17,10 @@ Storage Solution for the project
 - Azure Blob Storage
 - ADLS GEN2
    
+Task 1 :
+Scenario 1:
+Validation Activity 
+Scenario 2:
+Get Metadata,If condition and Web Acrivities 
+Scenario 3: 
+Delete Activity
