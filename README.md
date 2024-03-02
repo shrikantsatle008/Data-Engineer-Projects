@@ -34,8 +34,10 @@ Task 1 :
 Scenario 1:
 Validation Activity 
 
+
 Scenario 2:
 Get Metadata,If condition and Web Acrivities : Execute copy activity only if file contents are as expected 
+
 
 Scenario 3: 
 Delete Activity: Delete the source file on successful copy 
