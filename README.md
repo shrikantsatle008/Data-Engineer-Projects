@@ -16,7 +16,19 @@ Storage Solution for the project
 - Azure Sql Database
 - Azure Blob Storage
 - ADLS GEN2
-   
+
+
+. Storage Account 
+
+. Resource Group
+
+. Database Name
+
+
+Step 1 :
+
+Linked Services 
+
 Task 1 :
 
 Scenario 1:
