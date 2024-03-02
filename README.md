@@ -18,6 +18,7 @@ Storage Solution for the project
 - ADLS GEN2
    
 Task 1 :
+
 Scenario 1:
 Validation Activity 
 
