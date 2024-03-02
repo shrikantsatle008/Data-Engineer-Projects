@@ -39,3 +39,7 @@ Get Metadata,If condition and Web Acrivities : Execute copy activity only if fil
 
 Scenario 3: 
 Delete Activity: Delete the source file on successful copy 
+
+
+Step 2 : Data Ingestion From HTTP
+
